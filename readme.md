@@ -1,5 +1,5 @@
-﻿The programs and algorithms for construction of RadAtlas
-## Environment: R version 3.5.2, RStudio Version 1.1.456, Python 2.7.6, Eclipse Platform Version: Photon (4.8)
+# The programs and algorithms for construction of RadAtlas
+Environment: R version 3.5.2, RStudio Version 1.1.456, Python 2.7.6, Eclipse Platform Version: Photon (4.8)
 I: Details of self-developed bio-entity recognizer are in 'bio_entity_recognizer' folder.
 
 
