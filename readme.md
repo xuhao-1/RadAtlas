@@ -13,13 +13,13 @@ I: Details of self-developed bio-entity recognizer are in 'bio_entity_recognizer
 7. match_sent.py, ```nohup python match_sent.py ontology1 ontology2 ontology3 &```
 
 II. Programs used in data processes are stored in 'programs' folder.  
-1. get_LM_genes.R, _to get genes from literature mining and manual curation_  	
-2. get DEGs gene & table.R, _to get genes from differentially expressed genes and MySQL tables: "gene_table.csv", "gene_dis_pmid_sent.csv"_  	
-3. get_synonym.py, _to get genes' synonyms table "gene_synonym.csv"_  	
-4. GO_KEGG_analysis.R, get_go_kegg_tables_p1.py, get_GO_KEGG_tables_p2.R, _to get GO and KEGG analysis results: "gene_go_table.csv", "gene_pathway_table.csv"_  	
-5. get_snp_table.py, _to get SNPs for genes: "gene_snp_table.csv"_  	
-6. get_all_term_highlight.py, _to get terms in sentences highlighted, and MeSH terms associated to genes: "sent_table.csv", "gene_mesh_table.csv", "mesh_term_table.csv"_  
-7. get_dataset_table.R, _to get expression data for differentially expressed genes: "datasets_value_table.csv"_
+1. _get_LM_genes.R_, to get genes from literature mining and manual curation  	
+2. _get DEGs gene & table.R_, to get genes from differentially expressed genes and MySQL tables: "gene_table.csv", "gene_dis_pmid_sent.csv"  	
+3. _get_synonym.py_, to get genes' synonyms table "gene_synonym.csv"  	
+4. _GO_KEGG_analysis.R_, _get_go_kegg_tables_p1.py_, _get_GO_KEGG_tables_p2.R_, to get GO and KEGG analysis results: "gene_go_table.csv", "gene_pathway_table.csv"  	
+5. _get_snp_table.py_, to get SNPs for genes: "gene_snp_table.csv"  	
+6. _get_all_term_highlight.py_, to get terms in sentences highlighted, and MeSH terms associated to genes: "sent_table.csv", "gene_mesh_table.csv", "mesh_term_table.csv"  
+7. _get_dataset_table.R_, to get expression data for differentially expressed genes: "datasets_value_table.csv"
 
 
 
