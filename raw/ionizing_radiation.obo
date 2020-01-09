@@ -1,0 +1,46 @@
+[Term]
+id: R0001
+name: Radiation, Ionizing
+synonym: "Ionizing Radiation" EXACT []
+synonym: "ionizing radiation" EXACT []
+synonym: "ionizing-radiation" EXACT []
+synonym: "Ionising Radiation" EXACT []
+synonym: "ionising radiation" EXACT []
+synonym: "ionising-radiation" EXACT []
+synonym: "IR" EXACT []
+
+[Term]
+id: R0002
+name: Alpha Particle
+synonym: "Particle, Alpha" EXACT []
+synonym: "Alpha Ray" EXACT []
+synonym: "Ray, Alpha" EXACT []
+synonym: "Alpha Radiation" EXACT []
+synonym: "Radiation, Alpha" EXACT []
+
+[Term]
+id: R0003
+name: Beta Particle
+synonym: "Particle, Beta" EXACT []
+synonym: "Beta Ray" EXACT []
+synonym: "Ray, Beta" EXACT []
+synonym: "Beta Radiation" EXACT []
+synonym: "Radiation, Beta" EXACT []
+
+[Term]
+id: R0004
+name: Gamma Ray
+synonym: "Gamma Radiation" EXACT []
+synonym: "Gamma-Radiation" EXACT []
+synonym: "gamma Radiation" EXACT []
+synonym: "Gamma Ray" EXACT []
+synonym: "gamma ray" EXACT []
+synonym: "gamma rays" EXACT []
+synonym: "gamma-ray" EXACT []
+synonym: "gamma-rays" EXACT []
+synonym: "Ray, Gamma" EXACT []
+synonym: "Radiation, Gamma " EXACT []
+synonym: "X-ray" EXACT []
+synonym: "X-rays" EXACT []
+synonym: "X ray" EXACT []
+synonym: "X rays" EXACT []
