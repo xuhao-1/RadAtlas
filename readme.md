@@ -4,7 +4,7 @@ _Environment: R version 3.5.2, RStudio Version 1.1.456, Python 2.7.6, Eclipse Pl
 _The programs should be run in order._
 
 I: Details of self-developed bio-entity recognizer are in 'bio_entity_recognizer' folder.  
-1. type_sent.py ```type_sent.py ionizing_radiation.obo```  
+1. type_sent.py, ```type_sent.py ionizing_radiation.obo```  
 2. term_sent.py  
 3. nlp_sent.py  
 4. synonym_sent.py  
