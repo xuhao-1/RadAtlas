@@ -8,8 +8,7 @@ I: Details of self-developed bio-entity recognizer are in 'bio_entity_recognizer
 1. create_index_sent.py,  
 Indexer  
 2. type_sent.py, term_sent.py, nlp_sent.py,  
-Analyser  
-```python type_sent.py ionizing_radiation.obo```  
+Analyser, ```python type_sent.py ionizing_radiation.obo```  
 3. synonym_sent.py  
 5. search_sent.py  
 7. match_sent.py,  
