@@ -5,10 +5,10 @@ _Environment: R version 3.5.2, RStudio Version 1.1.456, Python 2.7.6, Eclipse Pl
 The programs should be run in order.
 
 I: Details of self-developed bio-entity recognizer are in 'bio_entity_recognizer' folder.  
-1. type_sent.py, ```python type_sent.py ionizing_radiation.obo```  
-2. term_sent.py  
-3. nlp_sent.py  
-4. synonym_sent.py  
+1. create_index_sent.py, _Indexer_   
+2. type_sent.py, term_sent.py, nlp_sent.py, _Analyser_  
+```python type_sent.py ionizing_radiation.obo```  
+3. synonym_sent.py  
 5. search_sent.py  
 7. match_sent.py, ```nohup python match_sent.py ontology1 ontology2 ontology3 &```
 
